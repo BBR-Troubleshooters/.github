@@ -8,11 +8,11 @@ We are a small group/team of indivuals who look to create fixes for the common a
 ### Main Site
 https://battlebit.dev/
 
-https://github.com/Phyrok/Troubleshooters/tree/website
+https://github.com/BBR-Troubleshooters/Website
 
 ---
 
 ### Gitbook Documents
-https://troubleshoot.battlebit.dev/ 
+https://docs.joinbattlebit.com/
 
-https://github.com/Phyrok/Troubleshooters/tree/gitbook
+https://github.com/BBR-Troubleshooters/Gitbook
